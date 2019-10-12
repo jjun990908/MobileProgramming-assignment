@@ -165,6 +165,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="예"
+                android:checked="true"
                 android:textSize="12sp" />
 
             <RadioButton
